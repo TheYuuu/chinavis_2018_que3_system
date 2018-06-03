@@ -1,0 +1,7 @@
+proto,uplink_length,downlink_length
+http,2029509,185707328
+mongodb,17803,240010365
+mysql,4167,5536
+postgresql,9173,30007132
+smtp,541,906
+ssh,590033562,580062446

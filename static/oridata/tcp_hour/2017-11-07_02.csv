@@ -1,0 +1,3 @@
+proto,uplink_length,downlink_length
+smtp,30925,31759
+ssh,90146,22345

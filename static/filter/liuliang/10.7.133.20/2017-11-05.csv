@@ -1,0 +1,2 @@
+stime,dtime,proto,dip,dport,sip,sport,uplink_length,downlink_length,day,siptype,siplevel,sip_id,diptype,diplevel,dip_id
+2017-11-05 11:35:58,2017-11-05 11:36:08,mysql,10.7.133.20,4443,10.64.105.92,1772,4887,110,2017-11-05,development3,4,1354,0,0,0

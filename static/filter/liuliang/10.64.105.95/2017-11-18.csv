@@ -1,0 +1,2 @@
+stime,dtime,proto,dip,dport,sip,sport,uplink_length,downlink_length,day,siptype,siplevel,sip_id,diptype,diplevel,dip_id
+2017-11-18 20:24:15,2017-11-18 20:24:25,ssh,10.63.120.70,22,10.64.105.95,49172,1185,8932,2017-11-18,development1,4,1284,0,0,0

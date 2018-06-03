@@ -1,0 +1,5 @@
+proto,uplink_length,downlink_length
+http,680991,85170249
+postgresql,30010050,10256
+smtp,150,394
+ssh,140008444,1946

@@ -1,0 +1,2 @@
+stime,dtime,proto,dip,dport,sip,sport,uplink_length,downlink_length,day,siptype,siplevel,sip_id,diptype,diplevel,dip_id
+2017-11-26 08:51:45,2017-11-26 08:51:55,postgresql,10.50.50.41,5432,10.64.105.24,1831,304,4876,2017-11-26,development1,4,1262,0,0,0

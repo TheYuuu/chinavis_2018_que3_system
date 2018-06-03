@@ -1,0 +1,3 @@
+stime,dtime,proto,dip,dport,sip,sport,uplink_length,downlink_length,day,siptype,siplevel,sip_id,diptype,diplevel,dip_id
+2017-11-18 08:52:06,2017-11-18 08:52:16,tds,10.50.50.36,54238,10.64.105.67,1878,4151,8891,2017-11-18,development2,4,1405,0,0,0
+2017-11-18 08:52:06,2017-11-18 08:52:16,tds,10.50.50.36,54238,10.64.105.67,1878,240001043,5596,2017-11-18,development2,4,1405,0,0,0

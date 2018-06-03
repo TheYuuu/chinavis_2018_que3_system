@@ -1,0 +1,7 @@
+proto,uplink_length,downlink_length
+ftp,4956,5542
+http,141563,19215442
+mysql,2594,8113
+postgresql,11,3725
+ssh,320027533,80039733
+tds,12524,390015992

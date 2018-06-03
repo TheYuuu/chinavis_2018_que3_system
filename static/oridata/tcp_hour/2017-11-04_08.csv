@@ -1,0 +1,4 @@
+proto,uplink_length,downlink_length
+ftp,3160,1471
+mysql,3933,102
+ssh,420042764,270059979

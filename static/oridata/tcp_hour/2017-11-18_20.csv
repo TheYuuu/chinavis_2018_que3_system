@@ -1,0 +1,7 @@
+proto,uplink_length,downlink_length
+ftp,14045,90015977
+http,342472,37682952
+mongodb,1144,157
+smtp,535,1071
+ssh,350023157,230046023
+tds,4138,12281

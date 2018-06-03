@@ -1,0 +1,5 @@
+proto,uplink_length,downlink_length
+ftp,25066,600011244
+http,616000,64071337
+mysql,180009944,240017328
+smtp,385,681

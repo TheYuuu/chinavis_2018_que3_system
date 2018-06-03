@@ -1,0 +1,5 @@
+proto,uplink_length,downlink_length
+ftp,270016636,14030
+http,3055013,354173615
+smtp,4449,7372
+ssh,160003056,3703
